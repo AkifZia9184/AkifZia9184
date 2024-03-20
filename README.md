@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Pyhton,js and React**
 
-- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+- 👨‍💻 All of my projects are available at [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://akifzia9184.github.io/Portfolio/)
 
 - 💬 Ask me about **c++,c &**
 

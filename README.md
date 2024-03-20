@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Akif Ziauddin</h1>
 <h3 align="center">A passionate programmer and developer from Pakistan</h3>
 
-<img align"right" alt="cod" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="centre" alt="coding" wigth="200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akifzia9184&label=Profile%20views&color=0e75b6&style=flat" alt="akifzia9184" /> </p>
 

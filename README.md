@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://raw.githubusercontent.com/sophearyrin-dev/sophearyrin-dev/main/images/banner-phearygithub.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Akif Ziauddin</h1>
 <h3 align="center">A passionate programmer and developer from Pakistan</h3>
 
